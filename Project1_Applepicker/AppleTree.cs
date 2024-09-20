@@ -4,6 +4,8 @@ using UnityEngine;
 public class AppleTree : MonoBehaviour {
 [Header("Set in Inspector")]
 // Prefab for instantiating apples
+
+
 public GameObject applePrefab;
 // Speed at which the AppleTree moves
 public float speed = 1f;
